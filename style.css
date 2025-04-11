@@ -1,0 +1,35 @@
+.menu{
+    width: 900px;
+    height: 200px;
+    background-color:black;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+.cuerpo{
+    width: 900px;
+    height: 500px;
+    background-color: skyblue;
+}
+
+.cuerpos{
+    width: 900px;
+    height: 500px;
+    background-color:azure;
+}
+
+.cuerp{
+    width: 900px;
+    height: 500px;
+    background-color:burlywood;
+}
+
+.final{
+    width: 900px;
+    height: 500px;
+    background-color:darkmagenta;
+}
